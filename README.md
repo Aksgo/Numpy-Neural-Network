@@ -7,3 +7,5 @@
 <li>there can be multiple classes so to calculate the loss , we have used categorical cross entropy</li>
 </ul>
 <b>NOTE : We are further going to implement MNIST dataset to classify the 28x28 digits using NN build from numpy and maths. Have Fun !!</b>
+<br>
+Here is the link to MNIST repo
