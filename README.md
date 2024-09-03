@@ -8,4 +8,6 @@
 </ul>
 <b>NOTE : We are further going to implement MNIST dataset to classify the 28x28 digits using NN build from numpy and maths. Have Fun !!</b>
 <br>
+<hr>
 Here is the link to MNIST repo
+<a href="https://github.com/mnielsen/neural-networks-and-deep-learning.git">MNIST github</a>
