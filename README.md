@@ -12,7 +12,7 @@
 <p>Below is the progess in the round 1 of training with a simple code and less optimization</p>
 <img src="training_round_1.png" width="800px" height="500px"></img>
 <hr>
-<p>For next round we added more layers and made the learin rate half after 4 epoch : <b> to achieve accuracy of 95.9%</b></p>
+<p>For next round we added more layers and made the learning rate half each time after 4 epochs : <b> to achieve accuracy of 95.9%</b></p>
 <img src="training_round_2.png" width="800px" height="500px"></img>
 Here is the link to MNIST repo -> 
 <a href="https://github.com/mnielsen/neural-networks-and-deep-learning.git"> MNIST github</a>
